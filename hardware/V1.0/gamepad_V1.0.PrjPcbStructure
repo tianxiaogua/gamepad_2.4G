@@ -3,3 +3,4 @@ Record=NoMainPathDocument|SourceDocument=connect_board.SchDoc|FileName=recv_boar
 Record=NoMainPathDocument|SourceDocument=connect_board.SchDoc|FileName=Sheet0-mcu.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=connect_board.SchDoc|FileName=Sheet1-control.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=connect_board.SchDoc|FileName=Sheet2-USB.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=connect_board.SchDoc|FileName=Sheet3-key.SchDoc|SheetNumber=6
